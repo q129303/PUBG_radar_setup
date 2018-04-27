@@ -1,10 +1,10 @@
-# Fast setup for the PUBG Radar on linux
+# Fast setup for the PUBG Radar on linux   China NO.1
 
 It installs the latest version from EmberVulpix, which supports the current encrytion. All requirements like java are also installed
 
 **To run the setup you simply need to execute this commands in your terminal**
 ```
-wget https://raw.githubusercontent.com/zecjy/PUBG_radar_setup/master/setup.sh
+wget https://raw.githubusercontent.com/q129303/PUBG_radar_setup/master/setup.sh
 sudo chmod +x setup.sh
 sudo ./setup.sh
 ```
@@ -36,6 +36,7 @@ cd Radar
 sudo ./create_run.sh
 ```
 
-**Credits to:**
-* *EmberVulpix: https://github.com/EmberVulpix/Gaydar*
-* *sm00thelf for the basic script: https://high-minded.net/members/sm00thelf.40217/*
+THANKS:
+@zecjy
+@EmberVulpix
+CHNIA.NO1
