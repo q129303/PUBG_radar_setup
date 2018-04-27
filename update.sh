@@ -1,10 +1,10 @@
 #!/bin/bash
 rm -r PUBG-Radar
 
-git clone https://github.com/zecjy/PUBG-Radar
+git clone https://github.com/q129303/PUBG-Radar
 cd PUBG-Radar
 
-PS3="Which map do you want to use? "
+PS3="请选择地图? "
 options=("4k Map" "8k Map")
 select opt in "${options[@]}"
 do
@@ -49,6 +49,6 @@ then
   fi
 fi
 
-wget https://raw.githubusercontent.com/zecjy/PUBG_radar_setup/master/create_run.sh -O create_run.sh
+wget https://raw.githubusercontent.com/q129303/PUBG_radar_setup/master/create_run.sh -O create_run.sh
 chmod +x create_run.sh
 ./create_run.sh
