@@ -4,7 +4,7 @@ rm -r PUBG-Radar
 git clone https://github.com/q129303/PUBG-Radar
 cd PUBG-Radar
 
-PS3="请选择地图? "
+PS3="请选择地图?（内存小用1，反之用2） "
 options=("4k Map" "8k Map")
 select opt in "${options[@]}"
 do
@@ -41,7 +41,7 @@ cd ..
 
 if [ -e run.sh ]
 then
-  echo "Keep previous run.sh [Y/N]? "
+  echo "Keep previous run.sh [Y/N]?（选Y） "
   read keep
   if [ "$keep" != "${keep#[Yy]}" ]
   then
