@@ -11,8 +11,11 @@
 
 70一位，帮后续维护更新，童叟无欺，原汁原味老外源码
 
-电脑内存必须等于8G或者8G以上
-这个东西吃内存
+电脑内存必须等于8G或者8G以上，这个东西吃内存
+
+
+
+
 It installs the latest version from EmberVulpix, which supports the current encrytion. All requirements like java are also installed
 
 **To run the setup you simply need to execute this commands in your terminal**
