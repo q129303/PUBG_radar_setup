@@ -15,31 +15,6 @@
 
 
 
-
-下载安装
-```
-wget https://raw.githubusercontent.com/q129303/PUBG_radar_setup/master/setup.sh
-sudo chmod +x setup.sh
-sudo ./setup.sh
-```
-
-启动运行雷达
-```
-cd Radar
-sudo ./run.sh
-
-
-更新地图等信息
-```
-cd Radar
-sudo ./update.sh
-```
-IP重置
-```
-cd Radar
-sudo ./create_run.sh
-```
-
 THANKS:
 @zecjy
 @EmberVulpix
